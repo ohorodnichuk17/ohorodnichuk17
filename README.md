@@ -21,7 +21,7 @@
 </div>
 <hr/>
 
-### :woman_technologist: About Me :
+### 👩🏽‍💻 About Me :
 I am .Net Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
 - :globe_with_meridians: Exploring Technical Content Writing.
@@ -32,7 +32,7 @@ I am .Net Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-julia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/juliaohorodnichuk)
   <hr/>
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div align="center"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
@@ -48,7 +48,7 @@ I am .Net Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 </div>
 <hr/>
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ohorodnichuk17)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohorodnichuk17&layout=compact)
