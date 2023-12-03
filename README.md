@@ -30,7 +30,7 @@ I am .Net Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :star2: Committed to high-quality products and client satisfaction.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-julia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/juliaohorodnichuk)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-julia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/juliaohorodnichuk)
   <hr/>
 ### 🛠️ Languages and Tools :
 <div align="center"> 
