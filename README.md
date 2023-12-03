@@ -49,9 +49,9 @@ I am .Net Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 <hr/>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ohorodnichuk17&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ohorodnichuk17)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohorodnichuk17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohorodnichuk17&layout=compact)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/juliaohorodnichuk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="juliaohorodnichuk" /></a></p><br><br>
