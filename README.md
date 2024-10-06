@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-ohorodnichuk-656554251) 
-[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=linkedin&logoColor=white)](https://t.me/jlhrdchk) 
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=linkedin&logoColor=white)](https://t.me/juliaohorodnichuk) 
 
 ---
 
